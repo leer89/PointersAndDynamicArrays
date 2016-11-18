@@ -25,7 +25,7 @@ int main()
 
 	p = &i;
 	cout << p;
-	cout << "goodbye"
+	cout << "goodbye" << endl;
 
     return 0;
 }
